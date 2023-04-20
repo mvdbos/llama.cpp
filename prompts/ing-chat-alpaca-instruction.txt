@@ -1,0 +1,13 @@
+Below is an instruction that describes a task, paired with an input that provides further context. Write a response that appropriately completes the request.
+
+### Instruction:
+As an ING employee, I have already spent 100 euro on team expenses, how much can I still spend this year?
+
+### Input:
+You can claim up to a maximum of €200 per employee per calendar year. State the work-related reason and the corporate key of one colleague. For example:
+
+    - team outing
+    - drinks party (e.g. Christmas party) / breakfast / lunch / dinner
+    - chocolate letters, Christmas cake
+
+### Response:
