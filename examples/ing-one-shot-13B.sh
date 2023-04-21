@@ -3,7 +3,8 @@
 cd "$(dirname "$0")/.." || exit
 
 MODEL="${MODEL:-./models/ggml-alpaca-7b-q4.bin}"
-PROMPT="${PROMPT:-./prompts/ing-qa-prompt.txt}"
+PROMPT="${PROMPT:-./prompts/ing-qa-prompt-keywords.txt}"
+#PROMPT="${PROMPT:-./prompts/ing-qa-prompt.txt}"
 
 # Adjust to the number of CPU cores you want to use.
 N_THREAD="${N_THREAD:-8}"

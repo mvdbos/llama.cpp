@@ -1,0 +1,6 @@
+Extract keywords suitable as input for a search engine from the  following input.
+
+Desired format:
+Keywords: <space-separated list of keywords>
+
+Input: "As an ING employee, how much can I claim for a retirement party?"

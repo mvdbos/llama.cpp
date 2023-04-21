@@ -1,4 +1,4 @@
-Answer the question based on the following input.
+Answer the questions based on the following input.
 Question: "As an ING employee, how much can I claim for a retirement party?"
 
 Desired format:
