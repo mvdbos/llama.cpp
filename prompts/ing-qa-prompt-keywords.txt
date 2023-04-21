@@ -1,4 +1,4 @@
-Extract keywords suitable as input for a search engine from the  following input.
+Extract keywords suitable as input for a search engine from the following input.
 
 Desired format:
 Keywords: <space-separated list of keywords>

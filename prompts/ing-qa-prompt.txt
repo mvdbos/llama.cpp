@@ -1,11 +1,12 @@
-Answer the questions based on the following input.
-Question: "As an ING employee, how much can I claim for a retirement party?"
+Answer the question based on the context below. Keep the answer short and concise. Respond "Unsure about answer" if not sure about the answer.
+Also append the source provided below to the answer.
 
-Desired format:
-Answer: <answer>
+Context: A departmental budget of up to €1,250 is set for a dinner, drinks party or other activity with a current or former colleague and possibly their direct partner or family. This applies to celebrations commemorating:
+    - 25 and 40-year service anniversaries
+    - company farewells due to retirement (including early retirement)
+    - royal decorations".
+Source: https://ing.sharepoint.com/sites/intranet-34/sitepages/article.aspx/H01/en-US/Team-expenses
 
-Input: "A departmental budget of up to €1,250 is set for a dinner, drinks party or other activity with a current or former colleague and possibly their direct partner or family. This applies to celebrations commemorating:
+Question: As an ING employee, I already spent 1000 euros on a retirement party. How much do I have left to spend?
 
-           - 25 and 40-year service anniversaries
-           - company farewells due to retirement (including early retirement)
-           - royal decorations".
+Answer:
