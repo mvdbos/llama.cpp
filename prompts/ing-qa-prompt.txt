@@ -5,6 +5,6 @@ Context: A departmental budget of up to €1,250 is set for a dinner, drinks par
     - company farewells due to retirement (including early retirement)
     - royal decorations".
 
-Question: As an ING employee, I already spent 1000 euros on a retirement party. How much do I have left to spend?
+Question: As an ING employee, I spent 1000 euros on a retirement party. How much do I have left to spend?
 
 Answer:
