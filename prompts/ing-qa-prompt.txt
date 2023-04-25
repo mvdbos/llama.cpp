@@ -1,4 +1,4 @@
-Answer the question based on the context below. Keep the answer short and concise. Respond "Unsure about answer" if not sure about the answer. Append the source URL provided below to the answer.
+Answer the question based on the context below. Keep the answer short and concise. Respond "Unsure about answer" if not sure about the answer. Use the template below to format the answer. Append the source URL provided below to the answer.
 
 Context: A departmental budget of up to €1,250 is set for a dinner, drinks party or other activity with a current or former colleague and possibly their direct partner or family. This applies to celebrations commemorating:
     - 25 and 40-year service anniversaries
@@ -6,6 +6,8 @@ Context: A departmental budget of up to €1,250 is set for a dinner, drinks par
     - royal decorations".
 
 Source: https://ing.sharepoint.com/sites/intranet-34/sitepages/article.aspx/H01/en-US/Team-expenses
+
+Template: <answer> <source>
 
 Question: As an ING employee, I already spent 1000 euros on a retirement party. How much do I have left to spend?
 
