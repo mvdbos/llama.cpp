@@ -1,5 +1,4 @@
 Extract keywords suitable as input for a search engine from the following input. Keywords should be nouns.
-Add one extra keyword for the subject that this question belongs to.
 
 Desired format:
 Keywords: <space separated list of keywords>

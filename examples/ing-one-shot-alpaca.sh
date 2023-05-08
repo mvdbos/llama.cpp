@@ -2,7 +2,8 @@
 
 cd "$(dirname "$0")/.." || exit
 
-MODEL="${MODEL:-./models/ggml-alpaca-7b-q4.bin}"
+#MODEL="${MODEL:-./models/ggml-alpaca-7b-q4.bin}"
+MODEL="${MODEL:-./models/7B-native.bin}"
 #MODEL="${MODEL:-./models/7B/ggml-model-q4_0.bin}"
 PROMPT="${PROMPT:-./prompts/ing-qa-prompt.txt}"
 
